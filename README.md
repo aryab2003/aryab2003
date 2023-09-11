@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aryab2003&label=Profile%20views&color=0e75b6&style=flat" alt="aryab2003" /> </p>
 
-- 🔭 I’m currently working on **Kerberos(A project of GDSC NIT Rourkela)**
+- 🔭 I’m currently working on **Huckleberry(A project of GDSC NIT Rourkela)**
 
 - 🌱 I’m currently learning **Golang,TensorFlow,Pytorch**
 
