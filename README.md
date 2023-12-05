@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **Huckleberry(A project of GDSC NIT Rourkela)**
 
-- 🌱 I’m currently learning **Golang,TensorFlow,Pytorch**
+- 🌱 I’m currently learning **NextJs,Prisma,Golang**
 
 - 📫 How to reach me **bhattacharyyaarya165@gmail.com**
 
